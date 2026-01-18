@@ -1,0 +1,2 @@
+I am IT student.I Just like coding.
+Learning file handling in Python.
