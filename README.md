@@ -18,8 +18,6 @@ I learn python.
 I just like to learn new skills
 
 
----
-
 # Task 2: Write and Append Data to a File
 
 Problem Statement:
